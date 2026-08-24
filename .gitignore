@@ -1,0 +1,29 @@
+# Java and Maven build output
+*.class
+bin/
+out/
+target/
+*.jar
+*.war
+*.ear
+
+# Runtime data and logs
+*.dat
+*.dat.tmp
+*.log
+logs/
+
+# IDE and editor files
+*.jcp
+*.jcw
+*.bak
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
